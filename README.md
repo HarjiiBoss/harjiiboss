@@ -27,18 +27,21 @@
 
 ## 📂 Featured Projects
 
-### Data Analytics Portfolio
-*Building real-world SQL projects - check back soon!*
+### 🎯 Data Analytics Portfolio
 
-- 🔄 **[Northwind Customer Analysis](link)** - *Coming Soon*  
-  SQL analysis of customer behavior and segmentation
+#### ✅ [Northwind Customer Analysis](https://github.com/HarjiiBoss/northwind-customer-analysis)
+SQL analysis of customer distribution, product pricing, and order patterns across 91 countries. Identified 17 inactive customers and provided actionable business recommendations for market expansion.
 
-- 🔄 **[Product Performance Dashboard](link)** - *Coming Soon*  
-  Business insights using aggregate functions and reporting
+**Tech Stack:** SQL | MySQL | Data Analysis  
+**Key Skills:** Aggregate Functions | Subqueries | Business Intelligence
 
-- 🔄 **[Sales Trend Analysis](link)** - *Coming Soon*  
-  Time-series analysis of sales patterns
+---
 
+#### 🔄 Product Performance Dashboard - *Coming Soon*  
+Business insights using aggregate functions and reporting
+
+#### 🔄 Sales Trend Analysis - *Coming Soon*  
+Time-series analysis of sales patterns
 
 ## 📈 GitHub Stats
 
