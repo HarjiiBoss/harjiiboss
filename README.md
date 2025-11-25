@@ -30,18 +30,21 @@
 ### 🎯 Data Analytics Portfolio
 
 #### ✅ [Northwind Customer Analysis](https://github.com/HarjiiBoss/northwind-customer-analysis)
-SQL analysis of customer distribution, product pricing, and order patterns across 91 countries. Identified 17 inactive customers and provided actionable business recommendations for market expansion.
+SQL analysis of customer distribution, product pricing, and order patterns across 91 countries. 
+Identified 17 inactive customers and provided actionable business recommendations for market expansion.
 
 **Tech Stack:** SQL | MySQL | Data Analysis  
 **Key Skills:** Aggregate Functions | Subqueries | Business Intelligence
-
----
 
 #### 🔄 Product Performance Dashboard - *Coming Soon*  
 Business insights using aggregate functions and reporting
 
 #### 🔄 Sales Trend Analysis - *Coming Soon*  
 Time-series analysis of sales patterns
+
+- 🔄 More projects coming soon!
+
+---
 
 ## 📈 GitHub Stats
 
