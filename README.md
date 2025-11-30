@@ -36,11 +36,12 @@ Identified 17 inactive customers and provided actionable business recommendation
 **Tech Stack:** SQL | MySQL | Data Analysis  
 **Key Skills:** Aggregate Functions | Subqueries | Business Intelligence
 
-#### 🔄 Product Performance Dashboard - *Coming Soon*  
-Business insights using aggregate functions and reporting
+#### ✅ [Employee Performance & Sales Analysis](https://github.com/HarjiiBoss/Employee-Performance-Sales-Analysis)
+SQL-driven analysis of employee workload, customer coverage, and supplier geographic concentration using the Northwind database.  
+Identified significant workload imbalance, an inactive employee record, and high supplier concentration risk in the US and Europe.
 
-#### 🔄 Sales Trend Analysis - *Coming Soon*  
-Time-series analysis of sales patterns
+**Tech Stack:** SQL | MySQL | Data Analysis  
+**Key Skills:** Aggregations | Joins | Subqueries | Business Insight | Data Quality Handling
 
 - 🔄 More projects coming soon!
 
