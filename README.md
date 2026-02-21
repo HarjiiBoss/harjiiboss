@@ -1,64 +1,72 @@
-# Hi, I'm Taofeek Salami 👋
+# Hi, I'm Taofeek Salami
 
-## About Me
-- 📊 Aspiring Data Analyst passionate about turning data into actionable insights
-- 🎓 Currently mastering SQL, Python, and Data Visualization
-- 🎯 Goal: Secure a remote Data Analyst role
-- 🇳🇬 Based in Ilorin, Nigeria
-- 💼 Open to remote opportunities worldwide
+Aspiring Data Analyst, three months into a structured, self-directed learning journey. I started with data literacy and analytics foundations before moving into SQL and databases through self-study. Currently progressing toward Python, Pandas, and data visualisation.
 
-## 🛠️ Skills & Tools
-
-**Data Analytics:**
-- SQL (MySQL) - Queries, Aggregations, Subqueries
-- Microsoft Excel - Data Analysis, Pivot Tables
-- Data Visualization - Tableau (learning)
-- Data Cleaning & Preparation
-
-**Technical Tools:**
-- MySQL Workbench, TablePlus
-- Git & GitHub
-- VS Code
-
-**Currently Learning:**
-- Python (Pandas, NumPy)
-- Advanced SQL (JOINs, Window Functions, CTEs)
-- Power BI / Tableau
-
-## 📂 Featured Projects
-
-### 🎯 Data Analytics Portfolio
-
-#### ✅ [Northwind Customer Analysis](https://github.com/HarjiiBoss/northwind-customer-analysis)
-SQL analysis of customer distribution, product pricing, and order patterns across 91 countries. 
-Identified 17 inactive customers and provided actionable business recommendations for market expansion.
-
-**Tech Stack:** SQL | MySQL | Data Analysis  
-**Key Skills:** Aggregate Functions | Subqueries | Business Intelligence
-
-#### ✅ [Employee Performance & Sales Analysis](https://github.com/HarjiiBoss/Employee-Performance-Sales-Analysis)
-SQL-driven analysis of employee workload, customer coverage, and supplier geographic concentration using the Northwind database.  
-Identified significant workload imbalance, an inactive employee record, and high supplier concentration risk in the US and Europe.
-
-**Tech Stack:** SQL | MySQL | Data Analysis  
-**Key Skills:** Aggregations | Joins | Subqueries | Business Insight | Data Quality Handling
-
-- 🔄 More projects coming soon!
+I build projects publicly to demonstrate both my thinking process and technical execution — not just the queries, but the business reasoning behind them.
 
 ---
 
-## 📈 GitHub Stats
+## Skills & Tools
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HarjiiBoss&show_icons=true&theme=radical)
+**Data & Databases**
+- SQL (MySQL) — querying, filtering, aggregation, subqueries, INNER JOIN, LEFT JOIN *(self-taught via W3Schools)*
+- Microsoft Excel — data cleaning and analysis
 
-## 📫 Connect With Me
+**Environment & Workflow**
+- MySQL Workbench, TablePlus
+- Git & GitHub — version control and project documentation
+- VS Code
+
+---
+
+## Projects
+
+### Northwind Customer & Product Analysis
+SQL analysis of customer distribution, pricing tiers, and inactive accounts across 5 structured queries. Each query includes documented insights and actionable business recommendations.
+
+- **Tech:** SQL · MySQL
+- **Skills:** Aggregation · Subqueries · Business Intelligence · Data Quality Handling
+- [View Repository](https://github.com/HarjiiBoss/northwind-customer-analysis) · [Live Portfolio Page](https://harjiiboss.github.io/northwind-customer-analysis)
+
+---
+
+### Employee Performance & Sales Analysis
+SQL analysis of employee workload distribution, customer relationship breadth, and supplier geographic concentration risk using the Northwind database. Identified a significant workload imbalance, one inactive employee record, and high supplier concentration in the US and Europe.
+
+- **Tech:** SQL · MySQL
+- **Skills:** INNER JOIN · LEFT JOIN · Aggregation · Subqueries · Business Insight · Data Quality Handling
+- [View Repository](https://github.com/HarjiiBoss/Employee-Performance-Sales-Analysis) · [Live Portfolio Page](https://harjiiboss.github.io/Employee-Performance-Sales-Analysis)
+
+---
+
+## Certifications
+
+**IBM SkillsBuild — 2026**
+- Data Fundamentals ✅
+- Data Classification ✅
+- Data Usability for Organizations ✅
+
+---
+
+## Learning Roadmap
+
+My approach is deliberate — concept before code, theory before tools.
+
+| Step  |                           Course                         | Status         |
+|-------|----------------------------------------------------------|----------------|
+|   1   | Tableau: Data Literacy for All                           | ✅ Complete    |
+|   2   | IBM SkillsBuild: Data Analytics Fluency Pathway          | 🔄 In Progress |
+|   3   | TS Academy: Data Analytics Bootcamp                      | 🔄 In Progress |
+|   4   | Simon Sez IT: MySQL for Beginners                        | 🔜 Up Next     |
+|   5   | Kaggle: SQL → Advanced SQL → Pandas → Data Visualisation | 🔜 Upcoming    |
+
+---
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taofeek-salami-460a93245)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salamitaofeek92@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TheBTCConfessor)
 
 ---
 
-💡 **Currently on a journey to master data analytics - follow along!**
-
-📚 Learning in public | 🚀 Building portfolio projects | 💼 Open to remote opportunities
+*Open to remote Data Analyst internships and entry-level roles.*
