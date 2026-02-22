@@ -1,64 +1,81 @@
 # Hi, I'm Taofeek Salami
 
-Aspiring Data Analyst, three months into a structured, self-directed learning journey. I started with data literacy and analytics foundations before moving into SQL and databases through self-study. Currently progressing toward Python, Pandas, and data visualisation.
+Data Analyst focused on customer, revenue, and operational analytics.  
+I build structured SQL projects that translate raw data into business insights, risk identification, and strategic recommendations.
 
-I build projects publicly to demonstrate both my thinking process and technical execution — not just the queries, but the business reasoning behind them.
+My work emphasizes:
+- Analytical thinking over query writing
+- Business interpretation over raw output
+- Clear documentation and reproducible structure
 
 ---
 
 ## Skills & Tools
 
-**Data & Databases**
-- SQL (MySQL) — querying, filtering, aggregation, subqueries, INNER JOIN, LEFT JOIN *(self-taught via W3Schools)*
-- Microsoft Excel — data cleaning and analysis
+### Data & Databases
+- SQL (MySQL) — aggregation, subqueries, INNER JOIN, LEFT JOIN, filtering logic
+- Microsoft Excel — data cleaning, structured analysis
+- Relational database analysis (Northwind case studies)
 
-**Environment & Workflow**
+### Workflow & Environment
 - MySQL Workbench, TablePlus
-- Git & GitHub — version control and project documentation
+- Git & GitHub — version control and documentation
 - VS Code
 
 ---
 
 ## Projects
 
-### Northwind Customer & Product Analysis
-SQL analysis of customer distribution, pricing tiers, and inactive accounts across 5 structured queries. Each query includes documented insights and actionable business recommendations.
+### Northwind — Customer & Product Performance Analysis
+Evaluated customer concentration risk, pricing imbalance, and inactive account revenue leakage within a wholesale distribution model.
 
-- **Tech:** SQL · MySQL
-- **Skills:** Aggregation · Subqueries · Business Intelligence · Data Quality Handling
-- [View Repository](https://github.com/HarjiiBoss/northwind-customer-analysis) · [Live Portfolio Page](https://harjiiboss.github.io/northwind-customer-analysis)
+**Highlights**
+- Identified heavy geographic customer concentration
+- Revealed pricing skew from premium product clustering
+- Detected 17 inactive customers representing revenue recovery opportunity
+
+**Tech:** SQL · MySQL  
+**Core Skills:** Aggregation · Subqueries · Risk Analysis · Business Interpretation  
+
+[View Repository](https://github.com/HarjiiBoss/northwind-customer-analysis)  
+[Live Portfolio Page](https://harjiiboss.github.io/northwind-customer-analysis)
 
 ---
 
-### Employee Performance & Sales Analysis
-SQL analysis of employee workload distribution, customer relationship breadth, and supplier geographic concentration risk using the Northwind database. Identified a significant workload imbalance, one inactive employee record, and high supplier concentration in the US and Europe.
+### Northwind — Employee Performance & Sales Analysis
+Analyzed workload imbalance, customer retention distribution, and supplier geographic concentration risk.
 
-- **Tech:** SQL · MySQL
-- **Skills:** INNER JOIN · LEFT JOIN · Aggregation · Subqueries · Business Insight · Data Quality Handling
-- [View Repository](https://github.com/HarjiiBoss/Employee-Performance-Sales-Analysis) · [Live Portfolio Page](https://harjiiboss.github.io/Employee-Performance-Sales-Analysis)
+**Highlights**
+- Top 3 employees handled 52% of total orders
+- 6.7× workload gap between highest and lowest active employees
+- 82% supplier co-location concentrated in USA & Europe
+
+**Tech:** SQL · MySQL  
+**Core Skills:** INNER JOIN · LEFT JOIN · Aggregation · Operational Risk Analysis  
+
+[View Repository](https://github.com/HarjiiBoss/Employee-Performance-Sales-Analysis)  
+[Live Portfolio Page](https://harjiiboss.github.io/Employee-Performance-Sales-Analysis)
 
 ---
 
 ## Certifications
 
-**IBM SkillsBuild — 2026**
-- Data Fundamentals ✅
-- Data Classification ✅
-- Data Usability for Organizations ✅
+**IBM SkillsBuild — Data Analytics Pathway (2026)**
+- Data Fundamentals
+- Data Classification
+- Data Usability for Organizations
 
 ---
 
-## Learning Roadmap
+## Professional Direction
 
-My approach is deliberate — concept before code, theory before tools.
+Currently expanding into:
+- Python (Pandas for analysis)
+- Data visualization (Tableau / BI tools)
+- Advanced SQL performance optimization
 
-| Step  |                           Course                         | Status         |
-|-------|----------------------------------------------------------|----------------|
-|   1   | Tableau: Data Literacy for All                           | ✅ Complete    |
-|   2   | IBM SkillsBuild: Data Analytics Fluency Pathway          | 🔄 In Progress |
-|   3   | TS Academy: Data Analytics Bootcamp                      | 🔄 In Progress |
-|   4   | Simon Sez IT: MySQL for Beginners                        | 🔜 Up Next     |
-|   5   | Kaggle: SQL → Advanced SQL → Pandas → Data Visualisation | 🔜 Upcoming    |
+My focus remains consistent:  
+structured analysis → quantified insight → business recommendation.
 
 ---
 
@@ -69,4 +86,4 @@ My approach is deliberate — concept before code, theory before tools.
 
 ---
 
-*Open to remote Data Analyst internships and entry-level roles.*
+Open to remote Data Analyst internships and entry-level analyst roles.
