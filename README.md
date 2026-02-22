@@ -1,7 +1,7 @@
 # Hi, I'm Taofeek Salami
 
 Data Analyst focused on customer, revenue, and operational analytics.  
-I build structured SQL projects that translate raw data into business insights, risk identification, and strategic recommendations.
+I analyze structured data to uncover customer, revenue, and operational risk patterns that inform business decisions.
 
 My work emphasizes:
 - Analytical thinking over query writing
