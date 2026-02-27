@@ -58,6 +58,22 @@ Analyzed workload imbalance, customer retention distribution, and supplier geogr
 
 ---
 
+### E-Commerce — Customer Retention & Revenue Stability Analysis
+Analysed customer retention dynamics, revenue stability, and geographic concentration risk for a UK-based e-commerce retailer across a structured 10-phase Excel workflow.
+
+**Highlights**
+- Revenue grew 8x year-over-year but CV of 78.60% confirms high instability
+- Average retention rate of 21.27% — growth largely acquisition-driven
+- 84.42% of revenue concentrated in the UK — extreme single-market dependency
+- Returning customers grew 40–50x through 2011 — early loyalty momentum detected
+
+**Tech:** Microsoft Excel · Power Query · Pivot Tables  
+**Core Skills:** Retention Modelling · Volatility Analysis · KPI Design · Dashboard Development · Anomaly Detection  
+[View Repository](https://github.com/HarjiiBoss/excel-customer-retention-revenue-analysis)  
+[Live Portfolio Page](https://harjiiboss.github.io/excel-customer-retention-revenue-analysis)
+
+---
+
 ## Certifications
 
 **IBM SkillsBuild — Data Analytics Pathway (2026)**
