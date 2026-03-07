@@ -81,6 +81,7 @@ Analysed customer retention dynamics, revenue stability, and geographic concentr
 - Data Classification
 - Data Usability for Organizations
 - Introduction to Inferential and Descriptive Statistics
+- Data Collection and Analysis
 
 ---
 
