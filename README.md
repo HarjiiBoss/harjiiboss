@@ -13,7 +13,7 @@ My work emphasizes:
 ## Skills & Tools
 
 ### Data & Databases
-- SQL (MySQL) — aggregation, subqueries, INNER JOIN, LEFT JOIN, filtering logic
+- SQL (MySQL) — window functions, CTEs, stored procedures, triggers, joins, subqueries, aggregation, query optimization
 - Microsoft Excel — data cleaning, structured analysis
 - Relational database analysis (Northwind case studies)
 
@@ -90,7 +90,7 @@ Analysed customer retention dynamics, revenue stability, and geographic concentr
 ## Professional Direction
 
 Currently expanding into:
-- Python (Pandas for analysis)
+- Python for data analysis (NumPy, Pandas, Matplotlib, Seaborn)
 - Data visualization (Tableau / BI tools)
 - Advanced SQL performance optimization
 
