@@ -1,7 +1,7 @@
 # Taofeek Salami — Data Analyst
 
-Self-taught data analyst focused on uncovering **revenue risk, customer behaviour, and operational inefficiency** across structured business datasets.  
-I start every project with a business question — then build toward a quantified, actionable recommendation.
+Self-taught Data Analyst helping businesses uncover revenue leakage, operational inefficiencies, and customer retention risks through SQL, Python, Excel, and Tableau.
+Across my projects, I've analysed 400,000+ records and translated data into measurable business recommendations.
 
 📍 Ilorin, Nigeria &nbsp;·&nbsp; Open to remote roles  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taofeek-salami-460a93245)
@@ -10,15 +10,19 @@ I start every project with a business question — then build toward a quantifie
 
 ---
 
-## Skills & Tools
+## At a Glance
+- 5 end-to-end analytics projects · 400,000+ records analysed
+- SQL · Python · Excel · Tableau
+- Revenue risk · Customer retention · Operational performance
+- Open to remote Data Analyst opportunities
 
-| Category | Tools |
-|---|---|
-| **Query & Database** | SQL · MySQL · Window Functions · CTEs · Subqueries · JOINs |
-| **Spreadsheet** | Microsoft Excel · Power Query · Pivot Tables · Dashboard Design |
-| **Programming** | Python · Pandas · NumPy · Matplotlib · Seaborn |
-| **Visualisation** | Tableau |
-| **Workflow** | Git · GitHub · VS Code · MySQL Workbench · TablePlus · Jupyter Notebook |
+---
+
+## Featured Projects
+
+📈 **Quantium Retail Analytics** — +33.5% sales uplift through trial-store analysis · [View](https://github.com/HarjiiBoss/forage-quantium-data-analytics)  
+🚚 **Logistics Performance Analysis** — –609% margin route surfaced across 85K+ trip records · [View](https://github.com/HarjiiBoss/logistics-analysis)  
+🛒 **Customer Retention Analysis** — 21.27% retention rate despite 8× revenue growth · [View](https://github.com/HarjiiBoss/excel-customer-retention-revenue-analysis)
 
 ---
 
@@ -94,6 +98,18 @@ Evaluated customer concentration risk, pricing imbalance, and inactive account r
 
 ---
 
+## Skills & Tools
+
+| Category | Tools |
+|---|---|
+| **Query & Database** | SQL · MySQL · Window Functions · CTEs · Subqueries · JOINs |
+| **Spreadsheet** | Microsoft Excel · Power Query · Pivot Tables · Dashboard Design |
+| **Programming** | Python · Pandas · NumPy · Matplotlib · Seaborn |
+| **Visualisation** | Tableau |
+| **Workflow** | Git · GitHub · VS Code · MySQL Workbench · TablePlus · Jupyter Notebook |
+
+---
+
 ## Certifications & Training
 
 **Forage Job Simulations**
@@ -108,4 +124,14 @@ Data Visualization and Presentation · Data Preparation for Analysis · Data Col
 
 ---
 
-*Structured analysis → quantified insight → business recommendation.*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarjiiBoss&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+## Let's Connect
+
+Open to remote Data Analyst roles and collaborations in business analytics, operational performance, and customer insights.
+
+📧 salamitaofeek92@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/taofeek-salami-460a93245)  
+🌐 [Portfolio](https://harjiiboss.github.io)
