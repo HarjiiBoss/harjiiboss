@@ -1,109 +1,111 @@
-# Hi, I'm Taofeek Salami
+# Taofeek Salami — Data Analyst
 
-Data Analyst focused on customer, revenue, and operational analytics.  
-I analyze structured data to uncover risk patterns and strategic opportunities that inform business decisions.
+Self-taught data analyst focused on uncovering **revenue risk, customer behaviour, and operational inefficiency** across structured business datasets.  
+I start every project with a business question — then build toward a quantified, actionable recommendation.
 
-My work emphasizes:
-- Analytical thinking over query writing
-- Business interpretation over raw output
-- Clear documentation and reproducible structure
+📍 Ilorin, Nigeria &nbsp;·&nbsp; Open to remote roles  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taofeek-salami-460a93245)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0f14?style=for-the-badge&logo=github&logoColor=white)](https://harjiiboss.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salamitaofeek92@gmail.com)
 
 ---
 
 ## Skills & Tools
 
-### Data & Databases
-- SQL (MySQL) — window functions, CTEs, stored procedures, triggers, joins, subqueries, aggregation, query optimization
-- Microsoft Excel — data cleaning, structured analysis
-- Relational database analysis (Northwind case studies)
-
-### Workflow & Environment
-- MySQL Workbench, TablePlus
-- Git & GitHub — version control and documentation
-- VS Code
+| Category | Tools |
+|---|---|
+| **Query & Database** | SQL · MySQL · Window Functions · CTEs · Subqueries · JOINs |
+| **Spreadsheet** | Microsoft Excel · Power Query · Pivot Tables · Dashboard Design |
+| **Programming** | Python · Pandas · NumPy · Matplotlib · Seaborn |
+| **Visualisation** | Tableau |
+| **Workflow** | Git · GitHub · VS Code · MySQL Workbench · TablePlus · Jupyter Notebook |
 
 ---
 
 ## Projects
 
-### Northwind — Customer & Product Performance Analysis
-Evaluated customer concentration risk, pricing imbalance, and inactive account revenue leakage within a wholesale distribution model.
+### Quantium — Chip Category & Trial Store Uplift Analysis
+> *Python · Pandas · Statistical Matching · Forage Job Simulation*
 
-**Highlights**
-- Identified heavy geographic customer concentration
-- Revealed pricing skew from premium product clustering
-- Detected 17 inactive customers representing revenue recovery opportunity
+Cleaned and merged 264,836 transactions with 72,637 loyalty customer records to analyse chip category purchasing behaviour across customer segments. Built a correlation-based control store matching model to evaluate a new trial layout's commercial impact.
 
-**Tech:** SQL · MySQL  
-**Core Skills:** Aggregation · Subqueries · Risk Analysis · Business Interpretation  
+**Key findings:**
+- Store 77 delivered the strongest result — **+33.5% sales uplift** over the trial period
+- Mainstream Young Singles/Couples identified as the highest-value chip segment
+- Backed a client-facing recommendation for Quantium's Category Manager
 
-[View Repository](https://github.com/HarjiiBoss/northwind-customer-analysis)  
-[Live Portfolio Page](https://harjiiboss.github.io/northwind-customer-analysis)
+[View Repository](https://github.com/HarjiiBoss/forage-quantium-data-analytics)
 
 ---
 
-### Northwind — Employee Performance & Sales Analysis
-Analyzed workload imbalance, customer retention distribution, and supplier geographic concentration risk.
+### Logistics Operations Performance Analysis
+> *Python · Pandas · Tableau · 85,000+ trip records*
 
-**Highlights**
-- Top 3 employees handled 52% of total orders
-- 6.7× workload gap between highest and lowest active employees
-- 82% supplier co-location concentrated in USA & Europe
+End-to-end Python pipeline across 14 tables — analysing driver performance, route profitability, and fleet health. Packaged findings into an interactive Tableau dashboard for operational decision-making.
 
-**Tech:** SQL · MySQL  
-**Core Skills:** INNER JOIN · LEFT JOIN · Aggregation · Operational Risk Analysis  
+**Key findings:**
+- Fleet on-time rate of **55.7%** against a 95%+ industry benchmark — systemic delivery failure
+- One route running at **–609% margin**, requiring urgent investigation
+- **$5.7M** in total maintenance spend mapped across the fleet
 
-[View Repository](https://github.com/HarjiiBoss/Employee-Performance-Sales-Analysis)  
-[Live Portfolio Page](https://harjiiboss.github.io/Employee-Performance-Sales-Analysis)
+[View Repository](https://github.com/HarjiiBoss/logistics-analysis) &nbsp;·&nbsp; [Tableau Dashboard](https://public.tableau.com/app/profile/taofeek.salami)
 
 ---
 
 ### E-Commerce — Customer Retention & Revenue Stability Analysis
+> *Microsoft Excel · Power Query · Pivot Tables · Dashboard*
+
 Analysed customer retention dynamics, revenue stability, and geographic concentration risk for a UK-based e-commerce retailer across a structured 10-phase Excel workflow.
 
-**Highlights**
-- Revenue grew 8x year-over-year but CV of 78.60% confirms high instability
-- Average retention rate of 21.27% — growth largely acquisition-driven
-- 84.42% of revenue concentrated in the UK — extreme single-market dependency
-- Returning customers grew 40–50x through 2011 — early loyalty momentum detected
+**Key findings:**
+- Revenue grew 8× YoY — but CV of **78.60%** confirms high instability beneath the growth
+- Average retention rate of **21.27%** — growth was acquisition-driven, not loyalty-driven
+- **84.42%** of revenue concentrated in the UK — extreme single-market dependency
 
-**Tech:** Microsoft Excel · Power Query · Pivot Tables  
-**Core Skills:** Retention Modelling · Volatility Analysis · KPI Design · Dashboard Development · Anomaly Detection  
-[View Repository](https://github.com/HarjiiBoss/excel-customer-retention-revenue-analysis)  
-[Live Portfolio Page](https://harjiiboss.github.io/excel-customer-retention-revenue-analysis)
+[View Repository](https://github.com/HarjiiBoss/excel-customer-retention-revenue-analysis) &nbsp;·&nbsp; [Live Report](https://harjiiboss.github.io/excel-customer-retention-revenue-analysis)
 
 ---
 
-## Certifications
+### Northwind — Employee Performance & Sales Analysis
+> *SQL · MySQL · JOINs · Operational Risk Analysis*
 
-**IBM SkillsBuild — Data Analytics Pathway (2026)**
-- Data Fundamentals
-- Data Classification
-- Data Usability for Organizations
-- Introduction to Inferential and Descriptive Statistics
-- Data Collection and Analysis
-- Data Preparation for Analysis
-- Data Visualization and Presentation
+Analysed workload distribution, customer retention patterns, and supplier geographic concentration risk within a wholesale distribution business.
 
----
+**Key findings:**
+- Top 3 employees handled **52% of total orders** — single-point-of-failure risk
+- **6.7× workload gap** between highest and lowest active employees
+- **82%** of supplier co-location concentrated in the USA and Europe
 
-## Professional Direction
-
-Currently expanding into:
-- Python for data analysis (NumPy, Pandas, Matplotlib, Seaborn)
-- Data visualization (Tableau / BI tools)
-- Advanced SQL performance optimization
-
-My focus remains consistent:  
-structured analysis → quantified insight → business recommendation.
+[View Repository](https://github.com/HarjiiBoss/Employee-Performance-Sales-Analysis) &nbsp;·&nbsp; [Live Report](https://harjiiboss.github.io/Employee-Performance-Sales-Analysis)
 
 ---
 
-## Connect
+### Northwind — Customer & Product Performance Analysis
+> *SQL · MySQL · Aggregation · Subqueries · Risk Analysis*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taofeek-salami-460a93245)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salamitaofeek92@gmail.com)
+Evaluated customer concentration risk, pricing imbalance, and inactive account revenue leakage within a wholesale distribution model.
+
+**Key findings:**
+- **17 inactive customers** identified as a direct revenue recovery opportunity
+- Pricing skew driven by premium product clustering inflating catalog averages
+- Heavy geographic customer concentration flagged as revenue dependency risk
+
+[View Repository](https://github.com/HarjiiBoss/northwind-customer-analysis) &nbsp;·&nbsp; [Live Report](https://harjiiboss.github.io/northwind-customer-analysis)
 
 ---
 
-Open to remote Data Analyst internships and entry-level analyst roles.
+## Certifications & Training
+
+**Forage Job Simulations**
+| Programme | Issuer | Date |
+|---|---|---|
+| Data Analytics Job Simulation | Quantium | Jun 2026 |
+| Data Analytics Job Simulation | Deloitte Australia | Jun 2026 |
+| Data for Decision Makers Job Simulation | BCG | May 2026 |
+
+**IBM SkillsBuild — Data Analytics Pathway (2026)**  
+Data Visualization and Presentation · Data Preparation for Analysis · Data Collection and Analysis · Inferential and Descriptive Statistics · Data Usability for Organizations · Data Classification · Data Fundamentals
+
+---
+
+*Structured analysis → quantified insight → business recommendation.*
