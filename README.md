@@ -38,7 +38,7 @@ Cleaned and merged 264,836 transactions with 72,637 loyalty customer records to 
 - Mainstream Young Singles/Couples identified as the highest-value chip segment
 - Backed a client-facing recommendation for Quantium's Category Manager
 
-[View Repository](https://github.com/HarjiiBoss/forage-quantium-data-analytics)
+[View Repository](https://github.com/HarjiiBoss/forage-quantium-data-analytics) &nbsp;·&nbsp; [Category Strategy Report](https://github.com/HarjiiBoss/forage-quantium-data-analytics/blob/main/Quantium_Category_Strategy_Report.pdf)
 
 ---
 
