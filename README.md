@@ -4,6 +4,7 @@ Self-taught Data Analyst helping businesses uncover revenue leakage, operational
 Across my projects, I've analysed 400,000+ records and translated data into measurable business recommendations.
 
 📍 Ilorin, Nigeria &nbsp;·&nbsp; Open to remote roles  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taofeek-salami-460a93245)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0f14?style=for-the-badge&logo=github&logoColor=white)](https://harjiiboss.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salamitaofeek92@gmail.com)
