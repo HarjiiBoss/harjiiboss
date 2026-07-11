@@ -1,7 +1,7 @@
 # Taofeek Salami — Data Analyst
 
 Self-taught Data Analyst helping businesses uncover revenue leakage, operational inefficiencies, and customer retention risks through SQL, Python, Excel, and Tableau.
-Across my projects, I've analysed 400,000+ records and translated data into measurable business recommendations.
+Across seven end-to-end projects, I've translated raw data into measurable business recommendations — spanning customer churn, revenue risk, logistics operations, and retail analytics.
 
 📍 Ilorin, Nigeria &nbsp;·&nbsp; Open to remote roles  
 
@@ -12,15 +12,16 @@ Across my projects, I've analysed 400,000+ records and translated data into meas
 ---
 
 ## At a Glance
-- 6 end-to-end analytics projects · 400,000+ records analysed
-- SQL · Python · Excel · Tableau
+- 7 end-to-end analytics projects · SQL · Excel · Python · Tableau
 - Revenue risk · Customer retention · Operational performance
+- TS Academy Certified Data Analyst (3-month programme, 2026)
 - Open to remote Data Analyst opportunities
 
 ---
 
 ## Featured Projects
 
+📉 **Telco Customer Churn Analysis** — £1.67M annualised revenue at risk uncovered via SQL + Excel · [View](https://github.com/HarjiiBoss/Telco_Customer_Churn_Analysis)  
 📈 **Quantium Retail Analytics** — +33.5% sales uplift through trial-store analysis · [View](https://github.com/HarjiiBoss/forage-quantium-data-analytics)  
 🚚 **Logistics Performance Analysis** — –609% margin route surfaced across 85K+ trip records · [View](https://github.com/HarjiiBoss/logistics-analysis)  
 🛒 **Superstore Sales Exploration** — 50.4% loss-order rate uncovered across 8,399 orders · [View](https://github.com/HarjiiBoss/Superstore_Database)
@@ -28,6 +29,21 @@ Across my projects, I've analysed 400,000+ records and translated data into meas
 ---
 
 ## Projects
+
+### Telco Customer Churn Analysis
+> *SQL · MySQL · Microsoft Excel · Three-Pillar Framework (Customer · Revenue · Risk)*
+
+End-to-end churn analytics project built on MySQL and Excel — 22 SQL queries and 17 analysis-ready datasets feeding a four-dashboard executive reporting suite covering customer behaviour, revenue exposure, and structural business risk.
+
+**Key findings:**
+- **26.54% overall churn rate**, placing **£1.67M** in annualised revenue at risk
+- Month-to-month contracts churn at **42.71%** — 15× the rate of two-year contracts
+- Fiber optic customers drive **62.11%** of revenue while recording the highest churn rate (41.89%)
+- **814 high-risk customers** identified pre-churn, churning at **69.53%** — 3.3× the base rate
+
+[View Repository](https://github.com/HarjiiBoss/Telco_Customer_Churn_Analysis) &nbsp;·&nbsp; [Live Report](https://harjiiboss.github.io/Telco_Customer_Churn_Analysis)
+
+---
 
 ### Superstore Database — Sales Dataset Exploration II
 > *Python · Pandas · Matplotlib · MySQL · SQLAlchemy · ETL Pipeline*
@@ -61,7 +77,7 @@ Cleaned and merged 264,836 transactions with 72,637 loyalty customer records to 
 ### Logistics Operations Performance Analysis
 > *Python · Pandas · Tableau · 85,000+ trip records*
 
-End-to-end Python pipeline across 14 tables — analysing driver performance, route profitability, and fleet health. Packaged findings into an interactive Tableau dashboard for operational decision-making.
+End-to-end Python pipeline across 14 tables — analysing driver performance, route profitability, and fleet health. Packaged findings into an interactive Tableau dashboard for operational decision-making. Served as the capstone project for the TS Academy Data Analytics training programme.
 
 **Key findings:**
 - Fleet on-time rate of **55.7%** against a 95%+ industry benchmark — systemic delivery failure
@@ -127,6 +143,9 @@ Evaluated customer concentration risk, pricing imbalance, and inactive account r
 ---
 
 ## Certifications & Training
+
+**TS Academy — Data Analytics (3-Month Certification Programme)**  
+Completed a 3-month structured Data Analytics training programme covering the full analytics workflow. Capstone project: [Logistics Operations Performance Analysis](https://github.com/HarjiiBoss/logistics-analysis). Certified Jul 2026.
 
 **Forage Job Simulations**
 | Programme | Issuer | Date |
