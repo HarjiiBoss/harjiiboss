@@ -160,8 +160,7 @@ Data Visualization and Presentation · Data Preparation for Analysis · Data Col
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarjiiBoss)
-
+![GitHub Stats](github-metrics.svg)
 
 ---
 
