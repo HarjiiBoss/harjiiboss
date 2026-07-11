@@ -145,7 +145,8 @@ Evaluated customer concentration risk, pricing imbalance, and inactive account r
 ## Certifications & Training
 
 **TS Academy — Data Analytics (3-Month Certification Programme)**  
-Completed a 3-month structured Data Analytics training programme covering the full analytics workflow. Capstone project: [Logistics Operations Performance Analysis](https://github.com/HarjiiBoss/logistics-analysis). Certified Jul 2026.
+Completed a 3-month structured Data Analytics training programme covering the full analytics workflow.  
+Capstone project: [Logistics Operations Performance Analysis](https://github.com/HarjiiBoss/logistics-analysis). Certified Jul 2026.
 
 **Forage Job Simulations**
 | Programme | Issuer | Date |
