@@ -3,7 +3,7 @@
 Self-taught Data Analyst helping businesses uncover revenue leakage, operational inefficiencies, and customer retention risks through SQL, Python, Excel, and Tableau.
 Across seven end-to-end projects, I've translated raw data into measurable business recommendations — spanning customer churn, revenue risk, logistics operations, and retail analytics.
 
-📍 Ilorin, Nigeria &nbsp;·&nbsp; Open to remote roles  
+📍 Ilorin, Nigeria (WAT, UTC+1) · Open to remote roles · Full-time or contract  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taofeek-salami-460a93245)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0f14?style=for-the-badge&logo=github&logoColor=white)](https://harjiiboss.github.io)
@@ -12,10 +12,27 @@ Across seven end-to-end projects, I've translated raw data into measurable busin
 ---
 
 ## At a Glance
-- 7 end-to-end analytics projects · SQL · Excel · Python · Tableau
-- Revenue risk · Customer retention · Operational performance
-- TS Academy Certified Data Analyst (3-month programme, 2026)
-- Open to remote Data Analyst opportunities
+- 7 end-to-end analytics projects — from SQL pipelines to executive dashboards
+- Specialization: Revenue risk, customer retention, operational performance
+- Certified Data Analyst (TS Academy, 2026) · Forage simulations: Quantium + Deloitte + BCG
+
+---
+
+## Why I Stand Out
+
+- **Data → Decisions:** I identify business problems first, then use data to solve them — not the other way around
+- **End-to-End Delivery:** SQL extraction → Python analysis → Excel/Tableau dashboards → executive-ready insights
+- **Quantified Impact:** Every project uncovers measurable business value — revenue at risk, margin loss, retention risk, sales uplift
+- **Three Core Lenses:** Customer retention risk, revenue leakage, and operational inefficiency — the questions every business needs answered
+
+---
+
+## How I Work
+
+- **Collaborative:** I translate technical findings into plain business language for non-technical stakeholders
+- **Self-Directed:** Self-taught analyst — built proficiency in SQL, Python, and Tableau independently, with a track record of picking up new tools as projects demand
+- **Business-First:** Every analysis starts with a business question, not the dataset
+- **Structured Thinker:** Mathematics background shows up in how I frame problems — rigorous, methodical, evidence-based
 
 ---
 
@@ -164,10 +181,10 @@ Data Visualization and Presentation · Data Preparation for Analysis · Data Col
 
 ---
 
-## Let's Connect
+## Let's Talk
 
-Open to remote Data Analyst roles and collaborations in business analytics, operational performance, and customer insights.
+I'm actively seeking **Business Data Analyst** roles focused on customer and revenue intelligence — where I can turn raw data into decisions that protect revenue and retain customers.
 
-📧 salamitaofeek92@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/taofeek-salami-460a93245)  
-🌐 [Portfolio](https://harjiiboss.github.io)
+- 📧 [salamitaofeek92@gmail.com](mailto:salamitaofeek92@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/taofeek-salami-460a93245)
+- 🌐 [Portfolio](https://harjiiboss.github.io) — live reports and full project walkthroughs
