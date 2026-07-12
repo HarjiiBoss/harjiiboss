@@ -11,13 +11,6 @@ Across seven end-to-end projects, I've translated raw data into measurable busin
 
 ---
 
-## At a Glance
-- 7 end-to-end analytics projects — from SQL pipelines to executive dashboards
-- Specialization: Revenue risk, customer retention, operational performance
-- Certified Data Analyst (TS Academy, 2026) · Forage simulations: Quantium + Deloitte + BCG
-
----
-
 ## Why I Stand Out
 
 - **Data → Decisions:** I identify business problems first, then use data to solve them — not the other way around
@@ -33,6 +26,13 @@ Across seven end-to-end projects, I've translated raw data into measurable busin
 - **Self-Directed:** Self-taught analyst — built proficiency in SQL, Python, and Tableau independently, with a track record of picking up new tools as projects demand
 - **Business-First:** Every analysis starts with a business question, not the dataset
 - **Structured Thinker:** Mathematics background shows up in how I frame problems — rigorous, methodical, evidence-based
+
+---
+
+## At a Glance
+- 7 end-to-end analytics projects — from SQL pipelines to executive dashboards
+- Specialization: Revenue risk, customer retention, operational performance
+- Certified Data Analyst (TS Academy, 2026) · Forage simulations: Quantium + Deloitte + BCG
 
 ---
 
