@@ -1,4 +1,4 @@
-# Taofeek Salami — Data Analyst
+# Taofeek Salami
 
 Data Analyst turning customer, operational, and financial data into decisions around revenue leakage, retention risk, and operational performance. Across eight analytical projects, I use SQL, Python, Excel, and Tableau to move from raw data and data-quality problems to business analysis, visualisation, and measurable recommendations.
 
