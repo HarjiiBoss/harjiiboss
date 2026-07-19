@@ -1,7 +1,6 @@
 # Taofeek Salami — Data Analyst
 
-Self-taught Data Analyst helping businesses uncover revenue leakage, operational inefficiencies, and customer retention risks through SQL, Python, Excel, and Tableau.
-Across seven end-to-end projects, I've translated raw data into measurable business recommendations — spanning customer churn, revenue risk, logistics operations, and retail analytics.
+Data Analyst turning customer, operational, and financial data into decisions around revenue leakage, retention risk, and operational performance. Across eight analytical projects, I use SQL, Python, Excel, and Tableau to move from raw data and data-quality problems to business analysis, visualisation, and measurable recommendations.
 
 📍 Ilorin, Nigeria (WAT, UTC+1) · Open to remote roles · Full-time or contract  
 
