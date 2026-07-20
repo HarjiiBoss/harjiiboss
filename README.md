@@ -13,15 +13,15 @@ Data Analyst turning customer, operational, financial, and credit-risk data into
 
 - **Data → Decisions:** I identify business problems first, then use data to solve them — not the other way around
 - **End-to-End Delivery:** SQL extraction → Python analysis → Excel/Tableau dashboards → executive-ready insights
-- **Quantified Impact:** Every project uncovers measurable business value — revenue at risk, margin loss, retention risk, sales uplift
-- **Three Core Lenses:** Customer retention risk, revenue leakage, and operational inefficiency — the questions every business needs answered
+- **Quantified Impact:** Every project uncovers measurable business value — revenue at risk, margin loss, retention risk, sales uplift, operational inefficiency, or default risk
+- **Risk-Led Analysis:** I investigate the business risks behind the data — from customer churn and revenue leakage to operational inefficiency and credit risk
 
 ---
 
 ## How I Work
 
 - **Collaborative:** I translate technical findings into plain business language for non-technical stakeholders
-- **Self-Directed:** Self-taught analyst — built proficiency in SQL, Python, and Tableau independently, with a track record of picking up new tools as projects demand
+- **Self-Directed:** Self-taught analyst — built proficiency in SQL, Python, and Tableau independently, with a track record of learning new tools as projects demand
 - **Business-First:** Every analysis starts with a business question, not the dataset
 - **Structured Thinker:** Mathematics background shows up in how I frame problems — rigorous, methodical, evidence-based
 
