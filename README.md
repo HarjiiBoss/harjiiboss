@@ -1,6 +1,6 @@
 # Taofeek Salami - Data Analyst
 
-Data Analyst turning customer, operational, and financial data into decisions around revenue leakage, retention risk, and operational performance. Across eight analytical projects, I use SQL, Python, Excel, and Tableau to move from raw data and data-quality problems to business analysis, visualisation, and measurable recommendations.
+Data Analyst turning customer, operational, financial, and credit-risk data into decisions around revenue leakage, retention risk, operational performance, and financial inclusion. Across eight analytical projects, I use SQL, Python, Excel, and Tableau to move from raw data and data-quality problems to business analysis, visualisation, and measurable recommendations.
 
 📍 Ilorin, Nigeria (WAT, UTC+1) · Open to remote roles · Full-time or contract  
 
@@ -28,22 +28,50 @@ Data Analyst turning customer, operational, and financial data into decisions ar
 ---
 
 ## At a Glance
-- 7 end-to-end analytics projects — from SQL pipelines to executive dashboards
-- Specialization: Revenue risk, customer retention, operational performance
-- Certified Data Analyst (TS Academy, 2026) · Forage simulations: Quantium + Deloitte + BCG
+
+- **8 end-to-end analytics projects** — from SQL pipelines and Python ETL to Excel and Tableau dashboards
+- **Core focus:** Revenue risk, customer retention, operational performance, and credit risk
+- **Featured methodology:** Bureau-independent credit risk segmentation using 149,999 borrower records
+- **Certified Data Analyst** — TS Academy, 2026
+- **Forage simulations:** Quantium + Deloitte + BCG
 
 ---
 
 ## Featured Projects
 
-📉 **Telco Customer Churn Analysis** — £1.67M annualised revenue at risk uncovered via SQL + Excel · [View](https://github.com/HarjiiBoss/Telco_Customer_Churn_Analysis)  
-📈 **Quantium Retail Analytics** — +33.5% sales uplift through trial-store analysis · [View](https://github.com/HarjiiBoss/forage-quantium-data-analytics)  
-🚚 **Logistics Performance Analysis** — –609% margin route surfaced across 85K+ trip records · [View](https://github.com/HarjiiBoss/logistics-analysis)  
+💳 **Fintech Credit Risk Analysis** — 55.0% default rate among borrowers with Critical behavioural and exposure risk · [View](https://github.com/HarjiiBoss/fintech-credit-risk-analysis)
+
+📉 **Telco Customer Churn Analysis** — £1.67M annualised revenue at risk uncovered via SQL + Excel · [View](https://github.com/HarjiiBoss/Telco_Customer_Churn_Analysis)
+
+📈 **Quantium Retail Analytics** — +33.5% sales uplift through trial-store analysis · [View](https://github.com/HarjiiBoss/forage-quantium-data-analytics)
+
+🚚 **Logistics Performance Analysis** — –609% margin route surfaced across 85K+ trip records · [View](https://github.com/HarjiiBoss/logistics-analysis)
+
 🛒 **Superstore Sales Exploration** — 50.4% loss-order rate uncovered across 8,399 orders · [View](https://github.com/HarjiiBoss/Superstore_Database)
 
 ---
 
 ## Projects
+
+---
+
+### Fintech Credit Risk Analysis
+
+> *SQL · MySQL · Python · Pandas · Risk Segmentation · Tableau*
+
+Built a bureau-independent credit risk segmentation pipeline using 149,999 borrower records. The project combined SQL-based data quality analysis, Python-derived behavioural risk scoring, and a custom Exposure Index to identify borrowers who may require differentiated credit-risk treatment when traditional bureau information is limited.
+
+**Key findings:**
+
+- Borrowers scoring **Critical on both behavioural risk and exposure risk defaulted at 55.0%**
+- Borrowers with **zero open credit lines defaulted at 25.64%** — the highest rate among credit-line segments
+- A data-quality placeholder flag showed a **54.65% default rate**, outperforming every engineered feature and demonstrating the importance of data-quality analysis before modelling
+- Missing income affected **19.82% of borrowers**, requiring an explicit `Indeterminate` exposure category rather than forced scoring
+- Built a bureau-independent risk segmentation methodology designed as a proof of concept for digital lending environments where traditional credit history may be limited
+
+[View Repository](https://github.com/HarjiiBoss/fintech-credit-risk-analysis) · [Live Risk Check](https://f4872123.mydala.app)
+
+---
 
 ### Telco Customer Churn Analysis
 > *SQL · MySQL · Microsoft Excel · Three-Pillar Framework (Customer · Revenue · Risk)*
@@ -181,7 +209,7 @@ Data Visualization and Presentation · Data Preparation for Analysis · Data Col
 
 ## Let's Talk
 
-I'm actively seeking **Business Data Analyst** roles focused on customer and revenue intelligence — where I can turn raw data into decisions that protect revenue and retain customers.
+I'm actively seeking **Business Data Analyst** roles focused on customer intelligence, revenue protection, operational performance, and financial risk — where I can turn raw data into decisions that protect revenue, improve retention, and support better business decisions.
 
 - 📧 [salamitaofeek92@gmail.com](mailto:salamitaofeek92@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/taofeek-salami-460a93245)
