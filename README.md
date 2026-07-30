@@ -1,11 +1,12 @@
 # Taofeek Salami - Data Analyst
 
-Data Analyst turning customer, operational, financial, and credit-risk data into decisions around revenue leakage, retention risk, operational performance, and financial inclusion. Across eight analytical projects, I use SQL, Python, Excel, and Tableau to move from raw data and data-quality problems to business analysis, visualisation, and measurable recommendations.
+Data Analyst specializing in **Credit Risk, Product, and CRM Analytics** — turning customer, credit-risk, and product data into decisions around default risk, churn, and growth opportunities, validated through statistical testing rather than assumption. Across eight analytical projects, I use SQL, Python, Excel, and Tableau to move from raw data and data-quality problems to business analysis, visualisation, and measurable recommendations.
 
 📍 Ilorin, Nigeria (WAT, UTC+1) · Open to remote roles · Full-time or contract  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taofeek-salami-460a93245) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salamitaofeek92@gmail.com)
+[![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified%20Associate%20Data%20Analyst-05192D?style=for-the-badge)](https://www.datacamp.com/certificate/DAA0015344805241)
 
 ---
 
@@ -13,8 +14,8 @@ Data Analyst turning customer, operational, financial, and credit-risk data into
 
 - **Data → Decisions:** I identify business problems first, then use data to solve them — not the other way around
 - **End-to-End Delivery:** SQL extraction → Python analysis → Excel/Tableau dashboards → executive-ready insights
-- **Quantified Impact:** Every project uncovers measurable business value — revenue at risk, margin loss, retention risk, sales uplift, operational inefficiency, or default risk
-- **Risk-Led Analysis:** I investigate the business risks behind the data — from customer churn and revenue leakage to operational inefficiency and credit risk
+- **Quantified Impact:** Every project uncovers measurable business value — default risk, revenue at risk, churn risk, or sales uplift
+- **Risk-Led Analysis:** I investigate the business risks behind the data — from credit default and customer churn to product engagement gaps and revenue leakage
 
 ---
 
@@ -30,8 +31,9 @@ Data Analyst turning customer, operational, financial, and credit-risk data into
 ## At a Glance
 
 - **8 end-to-end analytics projects** — from SQL pipelines and Python ETL to Excel and Tableau dashboards
-- **Core focus:** Revenue risk, customer retention, operational performance, and credit risk
+- **Core focus:** Credit risk, product analytics, and CRM/retention analytics
 - **Featured methodology:** Bureau-independent credit risk segmentation using 149,999 borrower records
+- **DataCamp Certified Associate Data Analyst** — Jul 2026
 - **Certified Data Analyst** — TS Academy, 2026
 - **Forage simulations:** Quantium + Deloitte + BCG
 
@@ -43,11 +45,15 @@ Data Analyst turning customer, operational, financial, and credit-risk data into
 
 📉 **Telco Customer Churn Analysis** — £1.67M annualised revenue at risk uncovered via SQL + Excel · [View](https://github.com/HarjiiBoss/Telco_Customer_Churn_Analysis)
 
-📈 **Quantium Retail Analytics** — +33.5% sales uplift through trial-store analysis · [View](https://github.com/HarjiiBoss/forage-quantium-data-analytics)
+🛍️ **E-Commerce Customer Retention & Revenue Stability Analysis** — 21.27% average retention rate uncovered beneath 8× YoY revenue growth · [View](https://github.com/HarjiiBoss/excel-customer-retention-revenue-analysis)
 
-🚚 **Logistics Performance Analysis** — –609% margin route surfaced across 85K+ trip records · [View](https://github.com/HarjiiBoss/logistics-analysis)
+### Additional Projects
 
-🛒 **Superstore Sales Exploration** — 50.4% loss-order rate uncovered across 8,399 orders · [View](https://github.com/HarjiiBoss/Superstore_Database)
+📈 Quantium Retail Analytics — +33.5% sales uplift through trial-store analysis · [View](https://github.com/HarjiiBoss/forage-quantium-data-analytics)
+
+🚚 Logistics Performance Analysis — –609% margin route surfaced across 85K+ trip records · [View](https://github.com/HarjiiBoss/logistics-analysis)
+
+🛒 Superstore Sales Exploration — 50.4% loss-order rate uncovered across 8,399 orders · [View](https://github.com/HarjiiBoss/Superstore_Database)
 
 ---
 
@@ -88,18 +94,17 @@ End-to-end churn analytics project built on MySQL and Excel — 22 SQL queries a
 
 ---
 
-### Superstore Database — Sales Dataset Exploration II
-> *Python · Pandas · Matplotlib · MySQL · SQLAlchemy · ETL Pipeline*
+### E-Commerce — Customer Retention & Revenue Stability Analysis
+> *Microsoft Excel · Power Query · Pivot Tables · Dashboard*
 
-Designed a normalised MySQL schema, built a Python/SQLAlchemy ETL pipeline to load 8,399 orders from Excel, then answered 10 self-generated business questions with Pandas analysis and Matplotlib visualisations across a 2009–2012 Canadian retail dataset.
+Analysed customer retention dynamics, revenue stability, and geographic concentration risk for a UK-based e-commerce retailer across a structured 10-phase Excel workflow.
 
 **Key findings:**
-- **50.4% of all order lines lose money** — the single biggest operational risk in the dataset
-- Furniture earns only **2.3% profit margin** despite generating $5.18M in sales
-- Discounts above 20% flip average order profit **negative (-$249 avg)**
-- December and January are peak months — May–August is the consistent low season
+- Revenue grew 8× YoY — but CV of **78.60%** confirms high instability beneath the growth
+- Average retention rate of **21.27%** — growth was acquisition-driven, not loyalty-driven
+- **84.42%** of revenue concentrated in the UK — extreme single-market dependency
 
-[View Repository](https://github.com/HarjiiBoss/Superstore_Database)
+[View Repository](https://github.com/HarjiiBoss/excel-customer-retention-revenue-analysis) &nbsp;·&nbsp; [Live Report](https://harjiiboss.github.io/excel-customer-retention-revenue-analysis)
 
 ---
 
@@ -131,17 +136,18 @@ End-to-end Python pipeline across 14 tables — analysing driver performance, ro
 
 ---
 
-### E-Commerce — Customer Retention & Revenue Stability Analysis
-> *Microsoft Excel · Power Query · Pivot Tables · Dashboard*
+### Superstore Database — Sales Dataset Exploration II
+> *Python · Pandas · Matplotlib · MySQL · SQLAlchemy · ETL Pipeline*
 
-Analysed customer retention dynamics, revenue stability, and geographic concentration risk for a UK-based e-commerce retailer across a structured 10-phase Excel workflow.
+Designed a normalised MySQL schema, built a Python/SQLAlchemy ETL pipeline to load 8,399 orders from Excel, then answered 10 self-generated business questions with Pandas analysis and Matplotlib visualisations across a 2009–2012 Canadian retail dataset.
 
 **Key findings:**
-- Revenue grew 8× YoY — but CV of **78.60%** confirms high instability beneath the growth
-- Average retention rate of **21.27%** — growth was acquisition-driven, not loyalty-driven
-- **84.42%** of revenue concentrated in the UK — extreme single-market dependency
+- **50.4% of all order lines lose money** — the single biggest operational risk in the dataset
+- Furniture earns only **2.3% profit margin** despite generating $5.18M in sales
+- Discounts above 20% flip average order profit **negative (-$249 avg)**
+- December and January are peak months — May–August is the consistent low season
 
-[View Repository](https://github.com/HarjiiBoss/excel-customer-retention-revenue-analysis) &nbsp;·&nbsp; [Live Report](https://harjiiboss.github.io/excel-customer-retention-revenue-analysis)
+[View Repository](https://github.com/HarjiiBoss/Superstore_Database)
 
 ---
 
@@ -187,6 +193,10 @@ Evaluated customer concentration risk, pricing imbalance, and inactive account r
 
 ## Certifications & Training
 
+**DataCamp — Associate Data Analyst in SQL**
+Industry-recognised, Associate-level certification confirming proficiency across the full analytics workflow — data preparation, exploratory analysis, and statistical reasoning in SQL.
+Credential ID DAA0015344805241 · [View Credential](https://www.datacamp.com/certificate/DAA0015344805241) · Certified Jul 2026.
+
 **TS Academy — Data Analytics (3-Month Certification Programme)**  
 Completed a 3-month structured Data Analytics training programme covering the full analytics workflow.  
 Capstone project: [Logistics Operations Performance Analysis](https://github.com/HarjiiBoss/logistics-analysis). Certified Jul 2026.
@@ -209,7 +219,7 @@ Data Visualization and Presentation · Data Preparation for Analysis · Data Col
 
 ## Let's Talk
 
-I'm actively seeking **Business Data Analyst** roles focused on customer intelligence, revenue protection, operational performance, and financial risk — where I can turn raw data into decisions that protect revenue, improve retention, and support better business decisions.
+I'm actively seeking **Data Analyst** roles in **Credit Risk, Product, and CRM Analytics** — where I can help businesses understand default risk, churn, and growth opportunities through SQL, Python, Excel, and Tableau, validated with statistical testing rather than assumption.
 
 - 📧 [salamitaofeek92@gmail.com](mailto:salamitaofeek92@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/taofeek-salami-460a93245)
