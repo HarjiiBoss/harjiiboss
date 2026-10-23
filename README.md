@@ -223,4 +223,4 @@ I'm actively seeking **Data Analyst** roles in **Credit Risk, Product, and CRM A
 
 - 📧 [salamitaofeek92@gmail.com](mailto:salamitaofeek92@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/taofeek-salami-460a93245)
-- 🌐 [Portfolio](https://harjiiboss.github.io) — live reports and full project walkthroughs
+- 🌐 [Portfolio](https://taofeeksalami.com) — live reports and full project walkthroughs
