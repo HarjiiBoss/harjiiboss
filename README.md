@@ -1,215 +1,141 @@
-# Taofeek Salami - Data Analyst
+# Taofeek Salami | Data Analyst
 
-Data Analyst specializing in **Credit Risk, Product, and CRM Analytics** — turning customer, credit-risk, and product data into decisions around default risk, churn, and growth opportunities, validated through statistical testing rather than assumption. Across eight analytical projects, I use SQL, Python, Excel, and Tableau to move from raw data and data-quality problems to business analysis, visualisation, and measurable recommendations.
+I analyse customer, product and credit-risk data and turn it into recommendations a business can act on. My work spans SQL, Python, Excel and Tableau, from data-quality checks and statistical testing to clear findings.
 
-📍 Ilorin, Nigeria (WAT, UTC+1) · Open to remote roles · Full-time or contract  
+**Focus areas:** Credit Risk Analytics · Product Analytics · CRM & Customer Analytics  
+**Location:** Ilorin, Nigeria (WAT, UTC+1) · **Availability:** Remote · Full-time or contract
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taofeek-salami-460a93245) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-taofeeksalami.com-1F2937?style=for-the-badge)](https://taofeeksalami.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taofeek-salami-460a93245)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salamitaofeek92@gmail.com)
 [![DataCamp Certified](https://img.shields.io/badge/DataCamp-Certified%20Associate%20Data%20Analyst-05192D?style=for-the-badge)](https://www.datacamp.com/certificate/DAA0015344805241)
 
 ---
 
-## Why I Stand Out
+## How I Approach Analysis
 
-- **Data → Decisions:** I identify business problems first, then use data to solve them — not the other way around
-- **End-to-End Delivery:** SQL extraction → Python analysis → Excel/Tableau dashboards → executive-ready insights
-- **Quantified Impact:** Every project uncovers measurable business value — default risk, revenue at risk, churn risk, or sales uplift
-- **Risk-Led Analysis:** I investigate the business risks behind the data — from credit default and customer churn to product engagement gaps and revenue leakage
-
----
-
-## How I Work
-
-- **Collaborative:** I translate technical findings into plain business language for non-technical stakeholders
-- **Self-Directed:** Self-taught analyst — built proficiency in SQL, Python, and Tableau independently, with a track record of learning new tools as projects demand
-- **Business-First:** Every analysis starts with a business question, not the dataset
-- **Structured Thinker:** Mathematics background shows up in how I frame problems — rigorous, methodical, evidence-based
-
----
-
-## At a Glance
-
-- **8 end-to-end analytics projects** — from SQL pipelines and Python ETL to Excel and Tableau dashboards
-- **Core focus:** Credit risk, product analytics, and CRM/retention analytics
-- **Featured methodology:** Bureau-independent credit risk segmentation using 149,999 borrower records
-- **DataCamp Certified Associate Data Analyst** — Jul 2026
-- **Certified Data Analyst** — TS Academy, 2026
-- **Forage simulations:** Quantium + Deloitte + BCG
+- **Start with the decision.** Define the business question, success measures and decision criteria before interpreting results.
+- **Validate before reporting.** Check row counts, joins, filters and calculated metrics against their underlying outputs.
+- **Make limitations visible.** Distinguish what the data supports from what it cannot establish.
+- **Document the process.** Use a phase-based workflow and a figure-checking script in my [Data Analysis Playbook](https://github.com/HarjiiBoss/analytics-playbook).
 
 ---
 
 ## Featured Projects
 
-💳 **Fintech Credit Risk Analysis** — 55.0% default rate among borrowers with Critical behavioural and exposure risk · [View](https://github.com/HarjiiBoss/fintech-credit-risk-analysis)
+### 🎮 Cookie Cats A/B Test — Should the First Gate Stay at Level 30?
+*BigQuery SQL · Python · SciPy · statsmodels · Tableau*
 
-📉 **Telco Customer Churn Analysis** — £1.67M annualised revenue at risk uncovered via SQL + Excel · [View](https://github.com/HarjiiBoss/Telco_Customer_Churn_Analysis)
+Analysed an A/B test involving 90,189 mobile-game players to assess whether moving the first progression gate from level 30 to level 40 affected seven-day retention. Decision criteria were defined before the outcome data was examined.
 
-🛍️ **E-Commerce Customer Retention & Revenue Stability Analysis** — 21.27% average retention rate uncovered beneath 8× YoY revenue growth · [View](https://github.com/HarjiiBoss/excel-customer-retention-revenue-analysis)
+- Seven-day retention was **19.0%** for the level-30 group and **18.2%** for the level-40 group—a difference of **−0.8 percentage points** for level 40 (95% CI: −1.3 to −0.3 percentage points; *p* = 0.002).
+- **Recommendation:** Keep the first gate at level 30 based on the retention evidence.
+- Checked the result with a sample-ratio test, power analysis, a bootstrap confidence interval and three sensitivity checks.
+- **Scope limitation:** The analysis evaluates retention, not revenue or in-app purchases.
 
-### Additional Projects
+[Repository](https://github.com/HarjiiBoss/cookie-cats-ab-test) · [Project page](https://taofeeksalami.com/cookie-cats-ab-test) · [Tableau dashboard](https://public.tableau.com/views/CookieCats-ShouldtheFirstGateStayatLevel30/CookieCatsShouldtheFirstGateStayatLevel30)
 
-📈 Quantium Retail Analytics — +33.5% sales uplift through trial-store analysis · [View](https://github.com/HarjiiBoss/forage-quantium-data-analytics)
+### 💳 Fintech Credit Risk Analysis
+*SQL · MySQL · Python · pandas · scikit-learn · Tableau*
 
-🚚 Logistics Performance Analysis — –609% margin route surfaced across 85K+ trip records · [View](https://github.com/HarjiiBoss/logistics-analysis)
+Built a bureau-independent behavioural risk segmentation and custom Exposure Index for 149,999 borrowers. This was the capstone project for the 3MTT Data Analysis & Visualization programme.
 
-🛒 Superstore Sales Exploration — 50.4% loss-order rate uncovered across 8,399 orders · [View](https://github.com/HarjiiBoss/Superstore_Database)
+- The Critical behavioural-risk tier had a **47.11%** default rate, compared with **2.23%** in the Low tier. Borrowers classified as Critical on both risk and exposure had a **55.0%** default rate.
+- Investigated placeholder delinquency codes rather than automatically discarding them. The 269 affected borrowers had a **54.65%** default rate.
+- A logistic-regression model using the tiers achieved **0.83 AUC** on held-out data and identified **72% of defaulters** at the evaluated threshold.
+- Missing income affected **19.82%** of borrowers; these records were retained in an explicit `Indeterminate` category rather than imputed.
 
----
+[Repository](https://github.com/HarjiiBoss/fintech-credit-risk-analysis) · [Project page](https://taofeeksalami.com/fintech-credit-risk-analysis) · [Tableau dashboard](https://public.tableau.com/views/FintechCreditRiskAnalysisDashboard/DB01-ExecutiveOverview) · [Live risk check](https://f4872123.mydala.app)
 
-## Projects
+### 📉 Telco Customer Churn Analysis
+*SQL · MySQL · Excel · Power Query*
 
----
+Created 22 SQL queries and 17 analysis-ready datasets to support a four-dashboard Excel reporting suite covering customers, revenue and churn risk.
 
-### Fintech Credit Risk Analysis
+- Overall churn rate was **26.54%**.
+- **55.5%** of churned customers (1,037 of 1,869) left within their first 12 months.
+- Month-to-month customers had a **42.71%** churn rate.
+- Fibre-optic customers contributed **62.11%** of monthly revenue and had the highest service-level churn rate (**41.89%**).
+- Churned customers had been paying about **£1.67M a year** in charges, 30.50% of total monthly charges.
 
-> *SQL · MySQL · Python · Pandas · Risk Segmentation · Tableau*
-
-Built a bureau-independent credit risk segmentation pipeline using 149,999 borrower records. The project combined SQL-based data quality analysis, Python-derived behavioural risk scoring, and a custom Exposure Index to identify borrowers who may require differentiated credit-risk treatment when traditional bureau information is limited.
-
-**Key findings:**
-
-- Borrowers scoring **Critical on both behavioural risk and exposure risk defaulted at 55.0%**
-- Borrowers with **zero open credit lines defaulted at 25.64%** — the highest rate among credit-line segments
-- A data-quality placeholder flag showed a **54.65% default rate**, outperforming every engineered feature and demonstrating the importance of data-quality analysis before modelling
-- Missing income affected **19.82% of borrowers**, requiring an explicit `Indeterminate` exposure category rather than forced scoring
-- Built a bureau-independent risk segmentation methodology designed as a proof of concept for digital lending environments where traditional credit history may be limited
-
-[View Repository](https://github.com/HarjiiBoss/fintech-credit-risk-analysis) · [Live Risk Check](https://f4872123.mydala.app)
-
----
-
-### Telco Customer Churn Analysis
-> *SQL · MySQL · Microsoft Excel · Three-Pillar Framework (Customer · Revenue · Risk)*
-
-End-to-end churn analytics project built on MySQL and Excel — 22 SQL queries and 17 analysis-ready datasets feeding a four-dashboard executive reporting suite covering customer behaviour, revenue exposure, and structural business risk.
-
-**Key findings:**
-- **26.54% overall churn rate**, placing **£1.67M** in annualised revenue at risk
-- Month-to-month contracts churn at **42.71%** — 15× the rate of two-year contracts
-- Fiber optic customers drive **62.11%** of revenue while recording the highest churn rate (41.89%)
-- **814 high-risk customers** identified pre-churn, churning at **69.53%** — 3.3× the base rate
-
-[View Repository](https://github.com/HarjiiBoss/Telco_Customer_Churn_Analysis) &nbsp;·&nbsp; [Live Report](https://harjiiboss.github.io/Telco_Customer_Churn_Analysis)
+[Repository](https://github.com/HarjiiBoss/Telco_Customer_Churn_Analysis) · [Project page](https://taofeeksalami.com/Telco_Customer_Churn_Analysis)
 
 ---
 
-### E-Commerce — Customer Retention & Revenue Stability Analysis
-> *Microsoft Excel · Power Query · Pivot Tables · Dashboard*
+## More Projects
 
-Analysed customer retention dynamics, revenue stability, and geographic concentration risk for a UK-based e-commerce retailer across a structured 10-phase Excel workflow.
+### 🚚 Logistics Operations Performance Analysis
+*Python · pandas · SciPy · Tableau · TS Academy capstone*
 
-**Key findings:**
-- Revenue grew 8× YoY — but CV of **78.60%** confirms high instability beneath the growth
-- Average retention rate of **21.27%** — growth was acquisition-driven, not loyalty-driven
-- **84.42%** of revenue concentrated in the UK — extreme single-market dependency
+Analysed more than 85,000 trip records across 14 tables, covering drivers, routes and fleet maintenance.
 
-[View Repository](https://github.com/HarjiiBoss/excel-customer-retention-revenue-analysis) &nbsp;·&nbsp; [Live Report](https://harjiiboss.github.io/excel-customer-retention-revenue-analysis)
+- On-time delivery rate was **44.6%**; a chi-square test found no statistically significant difference in on-time rates between drivers (*p* = 0.41).
+- Traced an apparent **−609% route margin** to a faulty fuel join. After estimating fuel cost from gallons used, route-level revenue remaining after fuel ranged from **59% to 78%** (median **72.0%**).
+- Analysed **$5.7M** in maintenance spend across 120 trucks; the highest-cost 10% of trucks accounted for **15.2%** of spend.
 
----
+[Repository](https://github.com/HarjiiBoss/logistics-analysis) · [Project page](https://taofeeksalami.com/logistics-analysis) · [Tableau dashboard](https://public.tableau.com/app/profile/taofeek.salami/viz/LogisticsOperation/LogisticsOperationsDashboard)
 
-### Quantium — Chip Category & Trial Store Uplift Analysis
-> *Python · Pandas · Statistical Matching · Forage Job Simulation*
+### 🛒 Superstore Sales Database Exploration
+*Python · MySQL · SQLAlchemy · pandas · Matplotlib*
 
-Cleaned and merged 264,836 transactions with 72,637 loyalty customer records to analyse chip category purchasing behaviour across customer segments. Built a correlation-based control store matching model to evaluate a new trial layout's commercial impact.
+Designed a normalised MySQL schema and Python/SQLAlchemy ETL pipeline for 8,399 order lines from 2009–2012, then used pandas to answer 10 business questions.
 
-**Key findings:**
-- Store 77 delivered the strongest result — **+33.5% sales uplift** over the trial period
-- Mainstream Young Singles/Couples identified as the highest-value chip segment
-- Backed a client-facing recommendation for Quantium's Category Manager
+- **50.8%** of order lines were loss-making despite **$14.9M** in revenue.
+- Furniture generated a **2.3%** margin on **$5.18M** in sales; Tables recorded a **$99.1K loss**.
+- December and January accounted for **9.84%** and **9.69%** of sales, respectively.
 
-[View Repository](https://github.com/HarjiiBoss/forage-quantium-data-analytics) &nbsp;·&nbsp; [Category Strategy Report](https://github.com/HarjiiBoss/forage-quantium-data-analytics/blob/main/Quantium_Category_Strategy_Report.pdf)
+[Repository](https://github.com/HarjiiBoss/Superstore_Database) · [Project page](https://taofeeksalami.com/Superstore_Database)
 
----
+### 📈 Quantium Chip Category & Trial Store Uplift
+*Python · pandas · Forage job simulation*
 
-### Logistics Operations Performance Analysis
-> *Python · Pandas · Tableau · 85,000+ trip records*
+- Cleaned 264,836 transactions to 245,302 chip purchases and joined them with 72,637 loyalty-customer records.
+- Budget Older Families were the highest-selling segment, with **$156K** in sales.
+- Matched trial stores to control stores using correlation; Store 77 showed the strongest observed result, with **33.5% sales uplift**.
 
-End-to-end Python pipeline across 14 tables — analysing driver performance, route profitability, and fleet health. Packaged findings into an interactive Tableau dashboard for operational decision-making. Served as the capstone project for the TS Academy Data Analytics training programme.
+[Repository](https://github.com/HarjiiBoss/forage-quantium-data-analytics) · [Project page](https://taofeeksalami.com/forage-quantium-data-analytics)
 
-**Key findings:**
-- Fleet on-time rate of **55.7%** against a 95%+ industry benchmark — systemic delivery failure
-- One route running at **–609% margin**, requiring urgent investigation
-- **$5.7M** in total maintenance spend mapped across the fleet
+### 👥 Northwind — Employee Performance & Sales Analysis
+*SQL · MySQL*
 
-[View Repository](https://github.com/HarjiiBoss/logistics-analysis) &nbsp;·&nbsp; [Tableau Dashboard](https://public.tableau.com/app/profile/taofeek.salami)
+- The three busiest employees processed **100 of 196 orders (51%)**; the busiest active employee processed 6.7 times as many orders as the least busy.
+- **52 of 74 customers (70%)** placed repeat orders.
+- **82%** of same-country supplier pairs were in the USA and Europe.
 
----
+[Repository](https://github.com/HarjiiBoss/Employee-Performance-Sales-Analysis) · [Project page](https://taofeeksalami.com/Employee-Performance-Sales-Analysis)
 
-### Superstore Database — Sales Dataset Exploration II
-> *Python · Pandas · Matplotlib · MySQL · SQLAlchemy · ETL Pipeline*
+### 🧾 Northwind — Customer & Product Performance Analysis
+*SQL · MySQL*
 
-Designed a normalised MySQL schema, built a Python/SQLAlchemy ETL pipeline to load 8,399 orders from Excel, then answered 10 self-generated business questions with Pandas analysis and Matplotlib visualisations across a 2009–2012 Canadian retail dataset.
+- **17 customers** had never placed an order: nine in Europe, six in North America and two in Argentina.
+- Product prices ranged from **$2.50 to $263.50**; the average was **$28.87**.
+- The top 10 customers placed **62 orders**.
 
-**Key findings:**
-- **50.4% of all order lines lose money** — the single biggest operational risk in the dataset
-- Furniture earns only **2.3% profit margin** despite generating $5.18M in sales
-- Discounts above 20% flip average order profit **negative (-$249 avg)**
-- December and January are peak months — May–August is the consistent low season
-
-[View Repository](https://github.com/HarjiiBoss/Superstore_Database)
-
----
-
-### Northwind — Employee Performance & Sales Analysis
-> *SQL · MySQL · JOINs · Operational Risk Analysis*
-
-Analysed workload distribution, customer retention patterns, and supplier geographic concentration risk within a wholesale distribution business.
-
-**Key findings:**
-- Top 3 employees handled **52% of total orders** — single-point-of-failure risk
-- **6.7× workload gap** between highest and lowest active employees
-- **82%** of supplier co-location concentrated in the USA and Europe
-
-[View Repository](https://github.com/HarjiiBoss/Employee-Performance-Sales-Analysis) &nbsp;·&nbsp; [Live Report](https://harjiiboss.github.io/Employee-Performance-Sales-Analysis)
-
----
-
-### Northwind — Customer & Product Performance Analysis
-> *SQL · MySQL · Aggregation · Subqueries · Risk Analysis*
-
-Evaluated customer concentration risk, pricing imbalance, and inactive account revenue leakage within a wholesale distribution model.
-
-**Key findings:**
-- **17 inactive customers** identified as a direct revenue recovery opportunity
-- Pricing skew driven by premium product clustering inflating catalog averages
-- Heavy geographic customer concentration flagged as revenue dependency risk
-
-[View Repository](https://github.com/HarjiiBoss/northwind-customer-analysis) &nbsp;·&nbsp; [Live Report](https://harjiiboss.github.io/northwind-customer-analysis)
+[Repository](https://github.com/HarjiiBoss/northwind-customer-analysis) · [Project page](https://taofeeksalami.com/northwind-customer-analysis)
 
 ---
 
 ## Skills & Tools
 
-| Category | Tools |
+| Area | Skills and tools |
 |---|---|
-| **Query & Database** | SQL · MySQL · Window Functions · CTEs · Subqueries · JOINs |
-| **Spreadsheet** | Microsoft Excel · Power Query · Pivot Tables · Dashboard Design |
-| **Programming** | Python · Pandas · NumPy · Matplotlib · Seaborn · SQLAlchemy |
-| **Visualisation** | Tableau |
-| **Workflow** | Git · GitHub · VS Code · MySQL Workbench · TablePlus · Jupyter Notebook |
+| **SQL & databases** | SQL, MySQL, Google BigQuery, joins, CTEs, window functions, subqueries |
+| **Python & analysis** | pandas, NumPy, SciPy, statsmodels, scikit-learn, Matplotlib, seaborn, SQLAlchemy, Jupyter |
+| **Statistics** | A/B testing, hypothesis testing, confidence intervals, power analysis, bootstrap methods, chi-square tests, logistic regression |
+| **Reporting & visualisation** | Tableau, Excel dashboards, Power Query, PivotTables, executive summaries |
+| **Workflow** | Git, GitHub, VS Code, MySQL Workbench, TablePlus |
 
 ---
 
 ## Certifications & Training
 
-**DataCamp — Associate Data Analyst in SQL**
-Industry-recognised, Associate-level certification confirming proficiency across the full analytics workflow — data preparation, exploratory analysis, and statistical reasoning in SQL.
-Credential ID DAA0015344805241 · [View Credential](https://www.datacamp.com/certificate/DAA0015344805241) · Certified Jul 2026.
-
-**TS Academy — Data Analytics (3-Month Certification Programme)**  
-Completed a 3-month structured Data Analytics training programme covering the full analytics workflow.  
-Capstone project: [Logistics Operations Performance Analysis](https://github.com/HarjiiBoss/logistics-analysis). Certified Jul 2026.
-
-**Forage Job Simulations**
-| Programme | Issuer | Date |
+| Certification or programme | Issuer | Date |
 |---|---|---|
-| Data Analytics Job Simulation | Quantium | Jun 2026 |
-| Data Analytics Job Simulation | Deloitte Australia | Jun 2026 |
-| Data for Decision Makers Job Simulation | BCG | May 2026 |
-
-**IBM SkillsBuild — Data Analytics Pathway (2026)**  
-Data Visualization and Presentation · Data Preparation for Analysis · Data Collection and Analysis · Inferential and Descriptive Statistics · Data Usability for Organizations · Data Classification · Data Fundamentals
+| [Associate Data Analyst in SQL](https://www.datacamp.com/certificate/DAA0015344805241) | DataCamp | Jul 2026 |
+| Data Analysis & Visualization programme (capstone: Fintech Credit Risk Analysis) | 3MTT (NITDA) | Sep 2026 |
+| Data Analytics Programme (capstone: Logistics Operations Performance Analysis) | TS Academy | Jul 2026 |
+| Job simulations: Quantium Data Analytics, Deloitte Australia Data Analytics, BCG Data for Decision Makers | Forage | May–Jun 2026 |
+| Data Analytics Pathway (seven courses) | IBM SkillsBuild | Jan–Mar 2026 |
 
 ---
 
@@ -217,10 +143,10 @@ Data Visualization and Presentation · Data Preparation for Analysis · Data Col
 
 ---
 
-## Let's Talk
+## Contact
 
-I'm actively seeking **Data Analyst** roles in **Credit Risk, Product, and CRM Analytics** — where I can help businesses understand default risk, churn, and growth opportunities through SQL, Python, Excel, and Tableau, validated with statistical testing rather than assumption.
+I'm open to **Data Analyst opportunities in credit risk, product and CRM/customer analytics**, including remote full-time and contract roles.
 
-- 📧 [salamitaofeek92@gmail.com](mailto:salamitaofeek92@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/taofeek-salami-460a93245)
-- 🌐 [Portfolio](https://taofeeksalami.com) — live reports and full project walkthroughs
+- **Email:** [salamitaofeek92@gmail.com](mailto:salamitaofeek92@gmail.com)
+- **LinkedIn:** [taofeek-salami](https://linkedin.com/in/taofeek-salami-460a93245)
+- **Portfolio:** [taofeeksalami.com](https://taofeeksalami.com) — project pages, dashboards and certificates
