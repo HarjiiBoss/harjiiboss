@@ -1,6 +1,6 @@
 # Taofeek Salami | Data Analyst
 
-I analyse customer, product and credit-risk data to help teams make better-informed decisions. My work spans SQL, Python, Excel and Tableau—from data-quality checks and statistical analysis to clear findings and practical recommendations.
+I analyse customer, product and credit-risk data and turn it into recommendations a business can act on. My work spans SQL, Python, Excel and Tableau, from data-quality checks and statistical testing to clear findings.
 
 **Focus areas:** Credit Risk Analytics · Product Analytics · CRM & Customer Analytics  
 **Location:** Ilorin, Nigeria (WAT, UTC+1) · **Availability:** Remote · Full-time or contract
@@ -56,7 +56,7 @@ Created 22 SQL queries and 17 analysis-ready datasets to support a four-dashboar
 - **55.5%** of churned customers (1,037 of 1,869) left within their first 12 months.
 - Month-to-month customers had a **42.71%** churn rate.
 - Fibre-optic customers contributed **62.11%** of monthly revenue and had the highest service-level churn rate (**41.89%**).
-- Churned customers represented approximately **£1.67M in annualised charges**, equivalent to 30.50% of monthly charges on an annualised basis.
+- Churned customers had been paying about **£1.67M a year** in charges, 30.50% of total monthly charges.
 
 [Repository](https://github.com/HarjiiBoss/Telco_Customer_Churn_Analysis) · [Project page](https://taofeeksalami.com/Telco_Customer_Churn_Analysis)
 
@@ -69,7 +69,7 @@ Created 22 SQL queries and 17 analysis-ready datasets to support a four-dashboar
 
 Analysed more than 85,000 trip records across 14 tables, covering drivers, routes and fleet maintenance.
 
-- On-time delivery rate was **44.6%**; a chi-square test found no statistically significant difference between drivers and the fleet overall (*p* = 0.41).
+- On-time delivery rate was **44.6%**; a chi-square test found no statistically significant difference in on-time rates between drivers (*p* = 0.41).
 - Traced an apparent **−609% route margin** to a faulty fuel join. After estimating fuel cost from gallons used, route-level revenue remaining after fuel ranged from **59% to 78%** (median **72.0%**).
 - Analysed **$5.7M** in maintenance spend across 120 trucks; the highest-cost 10% of trucks accounted for **15.2%** of spend.
 
