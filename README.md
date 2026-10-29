@@ -89,9 +89,9 @@ Designed a normalised MySQL schema and Python/SQLAlchemy ETL pipeline for 8,399 
 ### 📈 Quantium Chip Category & Trial Store Uplift
 *Python · pandas · Forage job simulation*
 
-- Cleaned 264,836 transactions to 245,302 chip purchases and joined them with 72,637 loyalty-customer records.
-- Budget Older Families were the highest-selling segment, with **$156K** in sales.
-- Matched trial stores to control stores using correlation; Store 77 showed the strongest observed result, with **33.5% sales uplift**.
+- Cleaned 264,836 transactions to 246,740 chip purchases and joined them with 72,637 loyalty-customer records.
+- Budget Older Families were the highest-selling segment, with **$157K** in sales.
+- Matched trial stores to control stores using correlation; Store 77 showed the largest uplift, with **32.9% sales uplift**.
 
 [Repository](https://github.com/HarjiiBoss/forage-quantium-data-analytics) · [Project page](https://taofeeksalami.com/forage-quantium-data-analytics)
 
